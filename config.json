@@ -1,0 +1,12 @@
+{
+  "token": "8552414106:AAFpZyMI3nAMXOU54b-K8KgHL3WlvYPCKoU",
+<<<<<<< HEAD
+  "adminId": 123456789,
+  "db": "None"
+=======
+  "adminId": 8559354817,
+  "db": "mongodb+srv://danielmojar26_db_user:3EVSAhHFwy7TREb4@cluster0.uwiz8ka.mongodb.net/telegrambot?retryWrites=true&w=majority
+"
+>>>>>>> 3d8746e (Fix remote to SSH)
+}
+
